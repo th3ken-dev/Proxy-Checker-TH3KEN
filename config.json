@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "url": {
+    "ScrapeUrl": "https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=0&country=all&ssl=all&anonymity=all",
+    "CheckUrl": "https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=0&country=all&ssl=all&anonymity=all"
+  }
+}
